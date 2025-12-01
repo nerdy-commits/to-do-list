@@ -29,7 +29,7 @@ body{
 }
 .todo{
     width: 100%;
-    max-width: 500px;
+    max-width: 600px;
     padding: 2rem;
     display:flex;
     align-items: center;
@@ -207,5 +207,6 @@ width: 100%;
 .task-button .delete-button{
     background: #ff6f91;
 }
+
 
 
