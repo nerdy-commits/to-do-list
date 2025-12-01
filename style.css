@@ -100,7 +100,7 @@ width: 100%;
     border-radius: 22px;
     background: rgba(255,194,209,0.3);
      color: #dbdbdb;
-    width:100%;
+ 
 }
 .input-area input::placeholder{
     color: #bcbcbc;
@@ -208,6 +208,7 @@ width: 100%;
 .task-button .delete-button{
     background: #ff6f91;
 }
+
 
 
 
